@@ -1,0 +1,7 @@
+.newsContainer {
+  display: flex;
+  /* flex-direction: column; */
+  width: 95vw;
+  justify-content: center;
+  position: relative;
+}

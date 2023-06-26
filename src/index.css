@@ -1,0 +1,12 @@
+* {
+  margin: 0px 0px;
+}
+
+.container {
+  display: flex;
+  /* color: black; */
+}
+
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,23 @@
+.article-external-container {
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  height: 300vh;
+  width: 70vw;
+  /* justify-content: center; */
+  align-items: center;
+  margin-left: 10rem;
+}
+
+.article-internal-container {
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  height: 300vh;
+  width: 60vw;
+  justify-content: center;
+}
+
+.articleHeading {
+  margin-top: 1rem;
+}

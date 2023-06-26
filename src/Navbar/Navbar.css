@@ -1,0 +1,44 @@
+.nav-container {
+  height: 10vh;
+  width: 100vw;
+  align-items: center;
+}
+
+.nav-container a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.5rem;
+  margin: auto 3rem;
+}
+
+.nav-links {
+  margin-left: 2rem;
+}
+
+.nav-logo {
+  margin-left: 5rem;
+}
+
+.nav-logo img {
+  height: 3rem;
+  width: 3rem;
+}
+
+.search {
+  display: flex;
+  margin-left: 40rem;
+  align-items: center;
+}
+
+.search-bar {
+  height: 20px;
+  width: 200px;
+  border-radius: 4px;
+}
+
+.search img {
+  margin: auto 0.2rem;
+  height: 1.3rem;
+  width: 1rem;
+}
